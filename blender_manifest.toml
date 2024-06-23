@@ -3,16 +3,16 @@ schema_version = "1.0.0"
 id = "set_smooth_group"
 version = "1.0.0"
 name = "Set Smooth Group"
-tagline = "Simplify the process of setting smooth groups with sharp edges in Blender"
+tagline = "Simplify setting smooth groups with sharp edges"
 maintainer = "Viktor Kom <viktorcor@gmail.com>"
 type = "add-on"
 
 tags = ["Modeling", "Mesh"]
 
-blender_version_min = "3.6.0"
+blender_version_min = "4.2.0"
 
 license = [
-  "GPL-2.0-or-later",
+  "SPDX:GPL-2.0-or-later",
 ]
 
 website = "https://github.com/ViktorCor/Blender-Set-Smooth-Group"
